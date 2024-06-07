@@ -10,7 +10,8 @@ public class MathUtility {
     //Bài này chỉ làm từ 0 -> 20! vì 21! vượt (long)  
     public static long getFactorial(int n){
         
-        long product = 10; //tích kết quả phép nhân
+        long product = 1; //tích kết quả phép nhân
+        //update code again to see the green forever
         
         if(n < 0 || n > 20){
             throw new IllegalArgumentException("Invalid n. n must be between 0 ... 20");
