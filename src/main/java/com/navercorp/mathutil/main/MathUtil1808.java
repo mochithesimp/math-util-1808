@@ -5,11 +5,17 @@ import javax.swing.JOptionPane;
 
 public class MathUtil1808 {
 
+
     //modify code in local, later upload to server
     public static void printMessage(){
         
     }
+
+    //MODIFY CODE DIRECTLY IN SERVER TO SIMULATE A CASE WHERE SOMEONE UPLOAD CODE
+    public void SayHelloFromServer(){
     
+    }
+
     public static void main(String[] args) {
         //CÁCH 2: TEST HÀM = CÁCH POPUP
         int n = 0;
