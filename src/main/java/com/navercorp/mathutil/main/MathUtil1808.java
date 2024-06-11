@@ -5,6 +5,11 @@ import javax.swing.JOptionPane;
 
 public class MathUtil1808 {
 
+    //modify code in local, later upload to server
+    public static void printMessage(){
+        
+    }
+    
     public static void main(String[] args) {
         //CÁCH 2: TEST HÀM = CÁCH POPUP
         int n = 0;
