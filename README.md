@@ -7,8 +7,9 @@
 
 * A Math Utility source code to demonstrate the Math library using Java & Maven
 * A Unit Test test script using JUnit Test Framework to ensure the quality of source code
-* The test script to demonstrate the TDD, DDT techniques
+* The test script to demonstrate the TDD, DDT and Regression Testing techniques
 * The CI (Continuous Intergration) script to apply CI process
+* Demonstrate the source code Confliction on pushing
 * ...
 
 ### Screenshots
